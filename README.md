@@ -8,14 +8,13 @@ B站抢装扮脚本(一起烂吧)
 
 看config命名应该都看的懂吧，抓包软件一个一个复制就行
 
-Fiddler抓包教程 (http/https\
+Fiddler抓包教程 (http/https)
 
-安卓抓包(http/https)
+安卓7抓包(http/https)
 
-前置:[Fiddler Classic](https://www.telerik.com/download/fiddler) 和 一部root的安卓手机或安卓模拟器(安卓7以下可以看 )
+前置:[Fiddler Classic](https://www.telerik.com/download/fiddler) 和 一部root的安卓手机或安卓模拟器(安卓7以下可以不看)
 
 1.设置Connections( Tools - Options - Connections )
-
 
 ![fiddler-connections](/img/fiddler-connections.png)
 
