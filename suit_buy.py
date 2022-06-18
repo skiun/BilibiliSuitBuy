@@ -80,7 +80,7 @@ class ToolsRequests:
         try:
             response = self.request.get(url, timeout=0.5)
         except Exception as e:
-            self._GetBiliNowTime(e)
+            return self._GetBiliNowTime(e)
         else:
             return int(response.json()['data']['now'])
 
