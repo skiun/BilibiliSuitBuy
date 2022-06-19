@@ -27,7 +27,7 @@ import uuid
 
 class BuyConfig:
     cookie_text = ""  # fiddler抓包
-    app_sec = "560c52ccd288fed045859ed18bffd973"  # fiddler抓包
+    app_sec = "560c52ccd288fed045859ed18bffd973"
     access_key = ""  # fiddler抓包
     buv_id = ""  # fiddler抓包
     app_key = ""  # fiddler抓包
